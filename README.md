@@ -18,3 +18,4 @@ And then
 Note
 ----
 This repository contains the extracted contents of a jenkins.war file for compatibility with the HPE Helion Stackato App Store. The source used to generate the aforementioned war file can be found at https://github.com/jenkinsci/jenkins/ and has been modified to be compatible with the built-in [Java Buildpack](https://github.com/cloudfoundry/java-buildpack/tree/v2.4).
+Please use this app at your own risk
